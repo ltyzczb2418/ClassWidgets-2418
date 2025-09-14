@@ -268,7 +268,7 @@
             "物理",
             "历史",
             "生物",
-            "英语1"
+            "英语"
         ]
     },
     "schedule_even": {
@@ -521,5 +521,5 @@
         "5": [],
         "6": []
     },
-    "url": "local"
+    "url": "https://raw.bgithub.xyz/ltyzczb2418/ClassWidgets-2418/refs/heads/main/2418.json"
 }
